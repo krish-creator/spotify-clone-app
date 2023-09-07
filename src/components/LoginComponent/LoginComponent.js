@@ -1,6 +1,6 @@
 import React from 'react'
 import './LoginComponent.css'
-import logo from '../../images/logos/Spotify_Logo_RGB_White.png'
+import logo from '../../assets/images/logos/Spotify_Logo_RGB_White.png'
 import { loginUrl } from '../../spotify'
 
 function LoginComponent() {
